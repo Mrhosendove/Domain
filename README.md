@@ -9,7 +9,8 @@ In this tutorial, we'll be experimenting with DNS. Here, I have put together a f
 
 - Microsoft Azure Virtual Machine
 - Remote Desktop
-- DNS
+- Active Directory Domain Services
+- Command Prompt
 
 <h2>Operating Systems Used</h2>
 
