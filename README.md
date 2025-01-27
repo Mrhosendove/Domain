@@ -10,3 +10,9 @@ In this tutorial, we'll be experimenting with DNS.
 - Microsoft Azure Virtual Machine
 - Remote Desktop
 - DNS
+
+<h2>Operating Systems Used</h2>
+
+- Windows 10
+
+<h2></h2>
